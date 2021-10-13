@@ -87,7 +87,7 @@ Warning: They're known to create stability issues as well, if you're receiving r
 
 ## Enabling UEFI Secure Boot (Windows 11):
 
-If you want to dual boot Windows 11 on your machine and therefore need to enable secure boot, follow the guide [here](https://github.com/profzei/Matebook-X-Pro-2018/wiki/Enable-BIOS-Secure-Boot-with-OpenCore).
+If you want to dual boot Windows 11 on your machine and therefore need to enable secure boot, follow the german guide [here](https://www.hackintosh-forum.de/forum/thread/54966-uefi-secure-boot-windows-11-und-monterey-dualboot-mit-opencore-teil-1/).
 
 ## Credits
 
