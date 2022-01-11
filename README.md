@@ -14,7 +14,7 @@ RAM | 16 GB DDR4-3200 (Corsair Vengance RGB)
 Disk (NVMe) | WD Black SN750 (Windows 11)
 Disk (SATA) | Crucial BX500 (macOS)
 Disk (Data) | Samsung 860 QVO
-macOS | Monterey Beta 9
+macOS | Monterey
 
 ## What works?
 
