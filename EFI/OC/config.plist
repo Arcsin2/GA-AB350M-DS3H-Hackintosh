@@ -1153,8 +1153,7 @@
 			<integer>0</integer>
 			<key>AudioDevice</key>
 			<string>PciRoot(0x0)/Pci(0x8,0x1)/Pci(0x0,0x4)</string>
-			<key>AudioOut</key>
-			<integer>1</integer>
+
 			<key>AudioSupport</key>
 			<true/>
 			<key>MinimumVolume</key>
