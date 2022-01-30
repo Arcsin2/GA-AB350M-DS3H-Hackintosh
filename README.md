@@ -1,4 +1,4 @@
-# GA-AB350M-DS3H-Hackintosh
+# GA-AB350M-DS3H-Hackintosh (discontinued, no longer owing this board)
  
 ### Before you give this EFI a try, make sure you read [this](#set-cpu-core-count), [this](#generating-your-own-serial-and-editing-rom) and [this](#enabling-uefi-secure-boot-windows-11)!
 
